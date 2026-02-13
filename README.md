@@ -36,11 +36,11 @@ Matplotlib / Seaborn
 Jupyter Notebook
 
 🚀 How to Run This Project
-Clone repository: 
+1. Clone repository: 
 git clone https://github.com/yourusername/time-series-forecasting-ml.git
 
-Install dependencies: 
+2. Install dependencies: 
 pip install numpy pandas matplotlib seaborn 
 
-Run notebook: 
+3. Run notebook: 
 jupyter notebook Time_Series_Forecasting_with_ML.ipynb
