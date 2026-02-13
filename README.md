@@ -35,7 +35,7 @@ Scikit-learn
 Matplotlib / Seaborn
 Jupyter Notebook
 
-🚀 How to Run This Project
+▶️ How to Run This Project
 1. Clone repository: 
 git clone https://github.com/yourusername/time-series-forecasting-ml.git
 
